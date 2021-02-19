@@ -1,13 +1,19 @@
 VentPlugin
 ====
 
-## A mod where all players use vents freely.
+VentPlugin is one of the client-based modifications, written in C# with Reactor.API , and BEPIN-EX.
 
-## Demo
+This plugin supports only Steam. The latest version supported is 2020.12.09.
 
-## VS. 
+## Features
 
-## Requirement
+New button which makes it possible to use vent is added when you are crewmate.
+
+## Installation
+
+## Troubleshooting
+
+Contact to tomatan515#3040 (Discord)
 
 ## Usage
 
