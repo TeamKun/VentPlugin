@@ -1,7 +1,5 @@
-Name
+VentPlugin
 ====
-
-AMONG US MOD
 
 ## A mod where all players use vents freely.
 
